@@ -1,0 +1,14 @@
+Flask-Jsonpify==1.5.0
+Flask-RESTful==0.3.9
+numpy==1.23.3
+chardet
+lxml
+pandas
+gunicorn
+pandas
+openpyxl
+lxml
+transformers
+sentence-transformers
+xmltodict
+scikit-learn
