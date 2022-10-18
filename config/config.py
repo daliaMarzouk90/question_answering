@@ -1,6 +1,6 @@
 __base_directory = "../"
 
-data_path = __base_directory + "data/grade_data.xml"
+data_path = __base_directory + "data/data.xml"
 
 model_path = __base_directory + "models/"
 
